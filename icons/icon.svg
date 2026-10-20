@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Coupon Queen Savings Companion icon</title>
+  <desc id="desc">A luxury purple and gold crown logo for the savings companion app.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0%" x2="100%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#4c1d3c"/>
+      <stop offset="100%" stop-color="#2a0e2c"/>
+    </linearGradient>
+    <linearGradient id="gold" x1="0%" x2="100%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#f5da9b"/>
+      <stop offset="100%" stop-color="#d2a64d"/>
+    </linearGradient>
+  </defs>
+  <rect width="512" height="512" rx="88" fill="url(#bg)"/>
+  <path d="M93 344h326l-22-148c-4-27-28-48-56-48h-52c-19 0-36 9-47 25l-13 19-13-19c-11-16-28-25-47-25h-52c-28 0-52 21-56 48L93 344Z" fill="url(#gold)"/>
+  <path d="M146 196l35 48 49-68 52 78 50-82 40 92 39-68 26 61H119l27-61Z" fill="#fffaf4" opacity="0.95"/>
+  <circle cx="170" cy="170" r="16" fill="#4c1d3c"/>
+  <circle cx="256" cy="138" r="16" fill="#4c1d3c"/>
+  <circle cx="343" cy="170" r="16" fill="#4c1d3c"/>
+  <path d="M125 360c32 21 71 32 131 32s99-11 131-32v53H125v-53Z" fill="#f6d9e8" opacity="0.9"/>
+</svg>
